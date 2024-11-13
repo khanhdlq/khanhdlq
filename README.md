@@ -4,9 +4,6 @@ Welcome to my GitHub profile! I'm a student at the **Academy of Crypto Technique
 
 ---
 
-## 📊 My GitHub Stats
-![khanhdlq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanhdlq&theme=dark&show_icons=true&hide_border=false)
-
 ### 🔍 Top Languages
 ![khanhdlq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhdlq&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
