@@ -1,1 +1,2 @@
-![khanhdlq's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhdlq&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![](https://raw.githubusercontent.com/khanhdlq/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/khanhdlq/github-stats/master/generated/overview.svg#gh-light-mode-only)
