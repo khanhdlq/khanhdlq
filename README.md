@@ -16,3 +16,4 @@ Welcome to my GitHub profile! I'm currently a student at the **Academy of Crypto
 ---
 
 Thanks for visiting my profile! If you're into Red Team operations or bug hunting, feel free to **star ⭐** my repositories and follow me for updates. Let’s collaborate and share knowledge! 😊
+![](https://komarev.com/ghpvc/?username=khanhdlq&label=PROFILE+VIEWS)
