@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm khanhdlq!
 
-Welcome to my GitHub profile! I'm a student at the **Academy of Crypto Technique** with a deep passion for **Red Team operations**, **web security research**, and **bug hunting**.
+Welcome to my GitHub profile! I'm currently a student at the **Academy of Crypto Technique** with a deep passion for **Red Team operations**, **web security research**, and **bug hunting**.
 
 ---
 
