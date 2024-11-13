@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a student at the **Academy of Crypto Technique
 ---
 
 ## 🌐 Let's Connect
-- [![Linkedin: khanhdlq](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=&link=https://www.linkedin.com/in/khanhdlq/)](https://www.linkedin.com/in/khanhdlq/)
-- [![Email](https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0078D4&logo=Microsoft-Outlook&logoColor=FFFFFF&label=&link=mailto:quockhanh03.bg@gmail.com)](mailto:quockhanh03.bg@gmail.com)
+[![Linkedin: khanhdlq](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=&link=https://www.linkedin.com/in/khanhdlq/)](https://www.linkedin.com/in/khanhdlq/)
+[![Email](https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0078D4&logo=Microsoft-Outlook&logoColor=FFFFFF&label=&link=mailto:quockhanh03.bg@gmail.com)](mailto:quockhanh03.bg@gmail.com)
 
 ---
 
